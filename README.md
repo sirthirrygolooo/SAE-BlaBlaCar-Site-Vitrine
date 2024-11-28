@@ -1,5 +1,8 @@
 # S1-2023-BlaBlaCar - SAE 1.05-1.06
 
+# Ma contribution sur ce projet : grande majorité du dev web (Page d'accueil, navbar+footer et page économie)
+# Le reste du groupe était sur d'autres aspects du projet (rapport econ, etc...)
+
 ## BlaBlaCar
 
 [VroumVroumGo](https://lfulcran-iut90.github.io/S1-2023-BlaBlaCar/Site/index.html)
